@@ -39,7 +39,7 @@ Component A orchestrates Component B and Component C, creating an elegant commun
     ```
 2. Install dependencies.
    ```bash
-     cd eleganceviewer
+    cd eleganceviewer
     npm install redux react-redux
    ```
    ```bash
