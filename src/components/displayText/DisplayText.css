@@ -1,0 +1,33 @@
+.displayLabel{
+    padding-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size: 24px;
+    padding-bottom: 5px;
+    text-align: right;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-bottom: 2px solid black;
+}
+.resultValue{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60vw;
+    background-color: white;
+    color: black;
+    font-weight: 700;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.value{
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    max-width: 100%;
+}
