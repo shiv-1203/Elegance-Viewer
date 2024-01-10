@@ -38,7 +38,10 @@ Component A orchestrates Component B and Component C, creating an elegant commun
     git clone https://github.com/shiv-1203/Elegance-Viewer.git
     ```
 2. Install dependencies.
-    ```bash
+   ```bash
+    npm install redux react-redux
+   ```
+   ```bash
     npm install gh-pages --save-dev
    ```
 4. Run the app.
