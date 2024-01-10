@@ -22,7 +22,7 @@ Component A orchestrates Component B and Component C, creating an elegant commun
 
 - **Dynamic Display:** Present the enchanted value inside Component C, showcasing the React-Redux synergy.
 
-## 🌈 Features
+## Features 🚀
 
 - **React-Redux Alchemy:** Harness the power of React-Redux for enchanting state management and inter-component communication.
 
