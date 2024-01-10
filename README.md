@@ -10,36 +10,27 @@ Component A orchestrates Component B and Component C, creating an elegant commun
 
 ### Component B - Input Wizard ✨
 
-- **Interactive Input:**
-  - Engage users with a dynamic input text field within Component B.
+- **Interactive Input:** Engage users with a dynamic input text field within Component B.
 
-- **Real-time Updates:**
-  - Implement a 'change' listener for live tracking of user input.
+- **Real-time Updates:** Implement a 'change' listener for live tracking of user input.
 
-- **Redux Sorcery:**
-  - Channel the input magic into the Redux store for centralized data management.
+- **Redux Sorcery:** Channel the input magic into the Redux store for centralized data management.
 
 ### Component C - Data Maestro 🎭
 
-- **Live Showcase:**
-  - Retrieve the stored value from the Redux store with finesse.
+- **Live Showcase:** Retrieve the stored value from the Redux store with finesse.
 
-- **Dynamic Display:**
-  - Present the enchanted value inside Component C, showcasing the React-Redux synergy.
+- **Dynamic Display:** Present the enchanted value inside Component C, showcasing the React-Redux synergy.
 
 ## 🌈 Features
 
-- **React-Redux Alchemy:**
-  - Harness the power of React-Redux for enchanting state management and inter-component communication.
+- **React-Redux Alchemy:** Harness the power of React-Redux for enchanting state management and inter-component communication.
 
-- **Live Interaction:**
-  - Experience real-time updates as users weave their input magic in Component B.
+- **Live Interaction:** Experience real-time updates as users weave their input magic in Component B.
 
-- **Centralized Sorcery:**
-  - Conjure data centrally in the Redux store, accessible across the magical realm of components.
+- **Centralized Sorcery:** Conjure data centrally in the Redux store, accessible across the magical realm of components.
 
-- **Enchanting Display:**
-  - Witness the dynamic display of the stored value within Component C, illuminating the success of the communication spell.
+- **Enchanting Display:** Witness the dynamic display of the stored value within Component C, illuminating the success of the communication spell.
   
 ## Getting Started with local setup
 1. Clone the repository.
