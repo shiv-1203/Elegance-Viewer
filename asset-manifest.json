@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Elegance-Viewer/static/css/main.13359477.css",
+    "main.js": "/Elegance-Viewer/static/js/main.07f9f0ff.js",
+    "static/js/787.c6cddbe6.chunk.js": "/Elegance-Viewer/static/js/787.c6cddbe6.chunk.js",
+    "static/media/logo.jpg": "/Elegance-Viewer/static/media/logo.fc647c3d8844e631ae1c.jpg",
+    "index.html": "/Elegance-Viewer/index.html",
+    "main.13359477.css.map": "/Elegance-Viewer/static/css/main.13359477.css.map",
+    "main.07f9f0ff.js.map": "/Elegance-Viewer/static/js/main.07f9f0ff.js.map",
+    "787.c6cddbe6.chunk.js.map": "/Elegance-Viewer/static/js/787.c6cddbe6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13359477.css",
+    "static/js/main.07f9f0ff.js"
+  ]
+}
